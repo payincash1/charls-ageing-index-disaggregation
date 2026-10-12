@@ -2,7 +2,7 @@
 
 Reproducibility archive for:
 
-> **What is lost when multidimensional ageing is reduced to one number? Evidence from the CHARLS cohort**
+> **Prognostic information retained by scalar summaries of multidimensional ageing: a CHARLS cohort study**
 > (*The Lancet Healthy Longevity*, submitted)
 
 All analysis code is under [`charls_mpai_reproducibility/`](charls_mpai_reproducibility/).
@@ -17,7 +17,7 @@ End-to-end pipeline for a national cohort of middle-aged and older Chinese adult
 - Cox survival models comparing scalar composites against the four-dimensional representation
 - Discrimination, calibration, decision-curve, NRI/IDI, and a battery of sensitivity analyses
 
-The study quantifies how much prognostic signal is retained when multidimensional ageing
+The study quantifies how much prognostic information is retained when multidimensional ageing
 measurement is compressed into a single number, across alternative scalar constructions of the
 same eight indicators.
 

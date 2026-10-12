@@ -1,6 +1,6 @@
 # Multidimensional ageing index disaggregation — CHARLS (reproducibility archive)
 
-Code accompanying: *What is lost when multidimensional ageing is reduced to one number? Evidence from the CHARLS cohort* (The Lancet Healthy Longevity, submitted).
+Code accompanying: *Prognostic information retained by scalar summaries of multidimensional ageing: a CHARLS cohort study* (The Lancet Healthy Longevity, submitted).
 
 ## Overview
 End-to-end pipeline: CHARLS 2011–2018 data preparation → multiple imputation (m=20) →
